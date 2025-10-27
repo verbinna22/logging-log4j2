@@ -20,9 +20,9 @@
  *
  * @deprecated Starting with version {@code 2.25.0}, these classes are assumed to be internal and planned to be moved to an internal package in the next major release.
  */
-@Deprecated
-@Export
-@Version("2.21.2")
+//@Deprecated
+//@Export
+//@Version("2.21.2")
 package org.apache.logging.log4j.core.util.datetime;
 
 import org.osgi.annotation.bundle.Export;
